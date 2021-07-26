@@ -6,14 +6,14 @@ Currently only supported on *windows*.
 
 ## Features
 
-<p align="center"><img src="https://imgur.com/download/2gpaK8r"></p>
+<p align="center"><img src="screenshots/Title.png"></p>
 
 #### Four Player Game (No network support yet)
 
-<p align="center"><img src="https://imgur.com/download/3Fvfr0V"></p>
+<p align="center"><img src="screenshots/StartGame.png"></p>
 
 #### Big2/Capsa Banting Rule Set
 
-<p align="center"><img src="https://imgur.com/download/yYoSoAq"></p>
-<p align="center"><img src="https://imgur.com/download/3PINEN0"></p>
-<p align="center"><img src="https://imgur.com/download/tB8ntb2"></p>
+<p align="center"><img src="screenshots/Challenge.png"></p>
+<p align="center"><img src="screenshots/SelectCard.png"></p>
+<p align="center"><img src="screenshots/Compete.png"></p>
